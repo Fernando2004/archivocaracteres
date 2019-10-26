@@ -1,0 +1,30 @@
+21:12 26/10/2019
+
+Subimos a git con el nombre de tema1accesodatos
+
+
+Copio las URL de la pagina de git;
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/Fernando2004/tema1accesodatos.git
+git push -u origin master
+
+
+donde?
+
+Abrimos el gitBash y buscamos donde esta el proyecto
+
+para ir al penDrive 	cd   g:
+
+para ir a C 		cd ruta:
+
+G:\2-CURSO2020\Acceso Datos\EjerGuillermo>
+
+1- git init
+2- git add .
+3- git commit -m "Primer commit"
+
+//Estos los copiamos al generar el repositorio en el git.
+4- git remote add origin
+5- git push -u origin master 

@@ -15,8 +15,6 @@ donde?
 
 Abrimos el gitBash y buscamos donde esta el proyecto
 
-para ir al penDrive 	cd   g:
-
 para ir a C 		cd ruta:
 
 G:\2-CURSO2020\Acceso Datos\EjerGuillermo>
